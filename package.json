@@ -4,6 +4,7 @@
   "description": "",
   "main": "action.js",
   "dependencies": {
+    "redux": "^3.7.2",
     "uuid": "^3.2.1"
   },
   "devDependencies": {},
